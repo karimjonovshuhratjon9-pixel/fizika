@@ -1,0 +1,6 @@
+{
+  "name": "ORBITA LAB — 7-sinf fizika: Aylana bo‘ylab harakat",
+  "description": "7-sinf fizika fanining 'Aylana bo‘ylab harakat' mavzusi bo‘yicha interaktiv 3D laboratoriya, simulyatsiya, formulalar, omad chambaragi, viktorina va o‘qituvchi namoyish vositasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
